@@ -77,6 +77,7 @@ const LandingHeader = () => (
             <div>
               {eventID === 'inctf' ? (
                 <>
+                {/* <p>{data.header}</p> */}
                 <p className="text-primary text-xl mb-3">{data.Desc}</p>
                 <p  className="font-bold mb-4 text-xl block">{data.subDesc}</p>
                 </>
