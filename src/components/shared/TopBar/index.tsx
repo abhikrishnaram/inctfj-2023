@@ -243,7 +243,7 @@ const TopBar = ({ UTMSource = null }) => {
           <div className="w-3/4 flex md:hidden items-center justify-end px-1">
             <div className="text-right px-2">
               <div className="font-semibold text-primary">
-                InCTF Jr 2024
+                InCTF Jr 2025
               </div>
               <div>Coming Soon</div>
             </div>
