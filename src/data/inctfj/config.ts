@@ -9,7 +9,7 @@ export default <ConfigContextType>{
   },
   analytics: {
     gTag: 'G-XYWG82LV7L',
-    gtmContainerId: 'GTM-NXQWL52R', // Add this line
+    gtmContainerId: 'GTM-N7TQWNCN', // Add this line
 
   },
   assets: {
