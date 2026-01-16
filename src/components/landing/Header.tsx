@@ -67,7 +67,7 @@ const LandingHeader = () => (
                     height="200"
                     width="130"
                   />
-                  <div className="text-primary text-5xl">Junior 2025</div>
+                  <div className="text-primary text-5xl">Junior 2026</div>
                 </div>
                 {/* <div className="bg-primary w-min">
                       <div className="animate-pulse duration-300 text-white p-2 w-max font-extrabold text-4xl">Registrations Open!</div>
